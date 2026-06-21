@@ -5,7 +5,6 @@ A comprehensive, role-based **Hospital Information Management System** built wit
 > **Project Status:** Active Development  
 > **License:** MIT
 
-![image_alt](Screenshots/homepage.png)
 
 ---
 
