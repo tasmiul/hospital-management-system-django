@@ -32,7 +32,7 @@ A comprehensive, role-based **Hospital Information Management System** built wit
 - Role-based access control via decorators (FBV) and mixins (CBV)
 - Superusers bypass all role restrictions automatically
 
-![image_alt](Screenshots/login.png)
+![image_alt](https://github.com/tasmiul/hospital-management-system-django/blob/444890f9e2d948a7c9040d51e6b29c0a1fa2101d/Screenshots/login.png)
 
 ### 👤 Patient Management
 - Full **CRUD** for patient profiles with auto-generated patient IDs (`PAT-XXXXX`)
