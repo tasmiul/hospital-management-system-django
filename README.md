@@ -192,7 +192,8 @@ A comprehensive, role-based **Hospital Information Management System** built wit
 ---
 
 ## Screenshots
-https://github.com/tasmiul/hospital-management-system-django/tree/main/Screenshots
+[Screenshots](https://github.com/tasmiul/hospital-management-system-django/tree/main/Screenshots)
+
 ---
 
 ## Tech Stack
